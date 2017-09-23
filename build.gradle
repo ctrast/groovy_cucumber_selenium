@@ -1,0 +1,19 @@
+group 'com.groovy'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'groovy'
+apply plugin: 'idea'
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.4.0'
+    compile 'org.codehaus.groovy:groovy-all:2.4.10'
+    testCompile 'info.cukes:cucumber-groovy:1.2.5'
+    testCompile 'info.cukes:cucumber-junit:1.2.5'
+    testCompile 'info.cukes:cucumber-java:1.2.5'
+}

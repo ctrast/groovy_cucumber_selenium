@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.github.slaout.fork.info.cukes:cucumber-groovy:1.2.5-SNAPSHOT" type="repository">
+    <properties maven-id="com.github.slaout.fork.info.cukes:cucumber-groovy:1.2.5-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/slaout/fork/info/cukes/cucumber-groovy/1.2.5-SNAPSHOT/cucumber-groovy-1.2.5-SNAPSHOT.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/slaout/fork/info/cukes/cucumber-core/1.2.5-SNAPSHOT/cucumber-core-1.2.5-SNAPSHOT.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-html/0.2.3/cucumber-html-0.2.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/info/cukes/gherkin/2.12.2/gherkin-2.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

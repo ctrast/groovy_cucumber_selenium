@@ -1,0 +1,4 @@
+package appSearch
+
+class Images {
+}
