@@ -7,8 +7,8 @@ import cucumber.api.groovy.Hooks
 import utilities.Action
 import utilities.UtilityHelper
 
-this.metaClass.mixin(Hooks)
-this.metaClass.mixin(EN)
+this.metaClass.mixin Hooks
+this.metaClass.mixin EN
 
 Navigate navigate = new Navigate()
 Google google = new Google()
@@ -25,5 +25,7 @@ When(~/^the user presses Enter button$/) { ->
 }
 Then(~/^search results list the "([^"]*)"$/) { String arg1 ->
     Boolean value = UtilityHelper.divcontainsText(arg1)
+
+   //TODO move assert to Utilities - pass in value to assert.
     assert value
 }
