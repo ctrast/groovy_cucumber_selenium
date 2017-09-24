@@ -10,4 +10,4 @@ import cucumber.api.testng.AbstractTestNGCucumberTests
         dryRun = false,
         glue = ["src/test/groovy/steps", "src/test/groovy/features/support"]
 )
-class TestRunner extends AbstractTestNGCucumberTests{}
+class TestRunnerTestNG extends AbstractTestNGCucumberTests{}
