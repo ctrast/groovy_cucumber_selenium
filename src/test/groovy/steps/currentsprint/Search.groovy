@@ -1,4 +1,4 @@
-package steps
+package steps.search
 
 import appSearch.Google
 import appSearch.Navigate

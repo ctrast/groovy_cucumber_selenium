@@ -14,6 +14,6 @@ import org.junit.runner.RunWith
         glue = ["src/test/groovy/steps", "src/test/groovy/features/support"]
 )
 
-class RunTests {
+class RunTestsJUnit {
     //leave empty!
 }
