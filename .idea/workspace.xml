@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2bd589-241f-4b88-bd21-5f346c7f3f63" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/support/CurrentSprint.bat" afterPath="$PROJECT_DIR$/src/test/groovy/support/CurrentSprint.bat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/groovy/support/CurrentSprint.bat" afterPath="$PROJECT_DIR$/CurrentSprint.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -99,11 +100,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="422">
               <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="currentsprint.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngconfigs/currentsprint.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentSprint.bat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CurrentSprint.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -580,52 +601,6 @@
               <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-              <item name="testngconfigs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -652,11 +627,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Groovy_Cucumber_Selenium" />
       <recent name="C:\Dev\Groovy_Cucumber_Selenium\src\test\groovy\features\currentsprint" />
       <recent name="C:\Dev\Groovy_Cucumber_Selenium\src\test\groovy\support\TestNGConfigs" />
       <recent name="C:\Dev\Groovy_Cucumber_Selenium\src\test\groovy\features\Search" />
       <recent name="C:\Dev\groovy_gucumber_selenium\src\test\groovy" />
-      <recent name="C:\Dev\groovy_gucumber_selenium\src\test\cucumber\support" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1412,14 +1387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngconfigs/currentsprint.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/steps/currentsprint/Search.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1436,18 +1403,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/CurrentSprint.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngconfigs/currentsprint.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CurrentSprint.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
