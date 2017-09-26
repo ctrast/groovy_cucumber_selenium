@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Scenario: Search for Bears" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-09-23T16:29:44" hostname="DESKTOP1" time="7.169">
+<testsuite name="Scenario: Search for Bears" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-09-24T18:37:37" hostname="DESKTOP1" time="4.885">
   <properties/>
   <testcase name="Given The user is on the google search page" classname="Scenario: Search for Bears" time="0.001"/>
   <testcase name="And the user enters the search &quot;bears&quot;" classname="Scenario: Search for Bears" time="0.0"/>
   <testcase name="When the user presses Enter button" classname="Scenario: Search for Bears" time="0.0"/>
   <testcase name="Then search results list the &quot;www.chicagobears.com&quot;" classname="Scenario: Search for Bears" time="0.0"/>
-  <testcase name="classMethod" classname="Scenario: Search for Bears" time="19.415"/>
+  <testcase name="classMethod" classname="Scenario: Search for Bears" time="11.575"/>
   <system-out><![CDATA[BEFORE hook called
 null
 ]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 39548
+  <system-err><![CDATA[Starting ChromeDriver 2.32.498550 (9dec58e66c31bcc53a9ce3c7226f0c1c5810906a) on port 32830
 Only local connections are allowed.
-Sep 23, 2017 11:29:40 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Sep 24, 2017 1:37:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 ]]></system-err>
 </testsuite>

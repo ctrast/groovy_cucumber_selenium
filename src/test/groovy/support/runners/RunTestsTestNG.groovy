@@ -1,4 +1,4 @@
-package steps
+package support.runners
 
 import cucumber.api.CucumberOptions
 import cucumber.api.testng.AbstractTestNGCucumberTests

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Current Sprint" verbose="1" >
+    <test name="Nopackage" >
+        <classes>
+            <class name="support.runners.CurrentSprint" />
+        </classes>
+    </test>
+</suite>

@@ -1,4 +1,4 @@
-package features.support
+package support
 
 import utilities.BeforeAfterScn
 import static cucumber.api.groovy.Hooks.After
