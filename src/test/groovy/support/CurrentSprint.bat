@@ -1,3 +1,6 @@
-set projectLocation=C:\Dev\Groovy_Cucumber_Selenium\src\test\groovy\support\testngconfigs\
+set projectLocation=C:\Dev\Groovy_Cucumber_Selenium
 cd %projectLocation%
-java org.testng.TestNG %projectLocation%\currentsprint.xml
+set classpath=%projectLocation%\bin;%projectLocation%\lib\*
+java org.testng.TestNG %projectLocation%\support\testngconfigs\currentsprint.xml
+pause
+
