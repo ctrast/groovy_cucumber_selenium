@@ -112,8 +112,8 @@
       <file leaf-file-name="CurrentSprint.bat" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CurrentSprint.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="161" lean-forward="false" selection-start-line="3" selection-start-column="161" selection-end-line="3" selection-end-column="161" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,6 +129,7 @@
     </findStrings>
     <dirStrings>
       <dir>C:\Dev\groovy_cucumber_selenium</dir>
+      <dir>C:\Dev\Groovy_Cucumber_Selenium\.gradle</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -585,6 +586,23 @@
             <path>
               <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="3.4.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="3.5-rc-2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
@@ -1461,8 +1479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CurrentSprint.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="161" lean-forward="false" selection-start-line="3" selection-start-column="161" selection-end-line="3" selection-end-column="161" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
