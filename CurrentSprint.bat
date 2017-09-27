@@ -1,6 +1,4 @@
-set projectLocation=C:\Dev\Groovy_Cucumber_Selenium
-cd %projectLocation%
-set classpath=%projectLocation%\bin;%projectLocation%\lib\*
-java org.testng.TestNG %projectLocation%\support\testngconfigs\currentsprint.xml
+cd C:\Workspace\projectname
+java -cp C:\Workspace\projectname\lib*;C:\Workspace\projectname\bin org.testng.TestNG currentsprint.xml
 pause
 
