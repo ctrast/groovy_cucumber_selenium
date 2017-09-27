@@ -2,6 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2bd589-241f-4b88-bd21-5f346c7f3f63" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/appSearch/AllPage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/appSearch/Google.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/appSearch/Images.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/appSearch/Navigate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/appSearch/News.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/context/Context.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/context/ContextUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/driver/WebDriverFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/dto/Browser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/utilities/Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/utilities/AppConstants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/utilities/BeforeAfterScn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/utilities/UtilityHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/utilities/UtilityHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/utilities/Wait.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/groovy_gucumber_selenium-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Scenario#3a#20Search#20for#20Bears.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/step_definitions.RunTests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/step_definitions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/drivers/chrome/chromedriver.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Scenario#3a#20Search#20for#20Bears.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-step_definitions.RunTests.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CurrentSprint.bat" afterPath="$PROJECT_DIR$/CurrentSprint.bat" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -103,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngconfigs/currentsprint.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+              <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -112,8 +144,8 @@
       <file leaf-file-name="CurrentSprint.bat" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CurrentSprint.bat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -648,10 +680,6 @@
               <item name="support" type="462c0819:PsiDirectoryNode" />
               <item name="testngconfigs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -765,30 +793,22 @@
         <option name="vmOptions" />
       </ExternalSystemSettings>
     </configuration>
-    <configuration name="RunTestsJUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="steps.currentsprint.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="groovy_gucumber_selenium_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="support.runners" />
-      <option name="MAIN_CLASS_NAME" value="support.runners.RunTestsJUnit" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+    <configuration name="Groovy_Cucumber_Selenium [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
     </configuration>
     <configuration name="RunTestsTestNG" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -1081,18 +1101,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Cucumber java.Cucumber" />
       <item index="1" class="java.lang.String" itemvalue="Gradle.Groovy_Cucumber_Selenium [build]" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RunTestsJUnit" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/features/support/testng.xml" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.RunTestsTestNG" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG.currentsprint.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/features/support/testng.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.RunTestsTestNG" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.currentsprint.xml" />
+      <item index="5" class="java.lang.String" itemvalue="Gradle.Groovy_Cucumber_Selenium [clean]" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.currentsprint.xml" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.Groovy_Cucumber_Selenium [build]" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/features/support/testng.xml" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.RunTestsTestNG" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RunTestsJUnit" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.Groovy_Cucumber_Selenium [clean]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.Groovy_Cucumber_Selenium [build]" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/features/support/testng.xml" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.RunTestsTestNG" />
       </list>
     </recent_temporary>
   </component>
@@ -1131,13 +1151,13 @@
     <history-entry file="CurrentSprint - 2017.09.25 at 10h 59m 36s.xml">
       <configuration name="CurrentSprint" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RunTestsTestNG - 2017.09.24 at 18h 08m 25s.xml">
-      <configuration name="RunTestsTestNG" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="RunTestsTestNG_feature - 2017.09.24 at 18h 10m 56s.xml">
       <configuration name="RunTestsTestNG.feature" configurationId="TestNG" />
     </history-entry>
     <history-entry file="currentsprint_xml - 2017.09.27 at 13h 28m 53s.xml">
+      <configuration name="currentsprint.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="currentsprint_xml - 2017.09.27 at 14h 51m 30s.xml">
       <configuration name="currentsprint.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="features - 2017.09.24 at 18h 09m 10s.xml">
@@ -1165,9 +1185,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25486112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29930556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.059722222" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1462,7 +1482,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngconfigs/currentsprint.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <caret line="5" column="48" lean-forward="false" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -1472,15 +1492,15 @@
         <state relative-caret-position="34">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CurrentSprint.bat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
