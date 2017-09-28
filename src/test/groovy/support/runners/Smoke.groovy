@@ -6,8 +6,8 @@ import cucumber.api.testng.AbstractTestNGCucumberTests
 
 @CucumberOptions(
         monochrome = true,
-        features = "src/test/groovy/features",
         dryRun = false,
-        glue = ["src/test/groovy/steps", "src/test/groovy/features/support"]
+        features = "src/test/groovy/features/smoke",
+        glue = ["src/test/groovy/steps/smoke", "src/test/groovy/support"]
 )
-class RunTestsTestNG extends AbstractTestNGCucumberTests{}
+public class Smoke extends AbstractTestNGCucumberTests{}
