@@ -7,7 +7,7 @@ Feature: Google Search
   - Google Cannot search unless a search parameter is entered.
 
 
-  @Test
+  @smoke
   Scenario: Search for Bears
     Given The user is on the google search page
     And the user enters the search "bears"
