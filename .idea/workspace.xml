@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2bd589-241f-4b88-bd21-5f346c7f3f63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/appSearch/MTFlightFinder.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/groovy/appSearch/MTHome.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/features/HomePage/GoogleHome.feature" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/steps/HomePage/GoogleHome.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/groovy/steps/Login/MercuryToursLogin.groovy" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/groovy/steps/smoke/GoogleHome.groovy" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/groovy/features/smoke/GoogleHome.feature" afterPath="$PROJECT_DIR$/src/test/groovy/features/LogIn/MercuryToursLogin.feature" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/groovy/support/runners/CurrentSprint.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/support/runners/Regression.groovy" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/groovy/support/testngxml/currentsprint.xml" afterPath="$PROJECT_DIR$/src/test/groovy/support/testngxml/regression.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/fileContent/fileContent.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/appSearch/Google.class" afterPath="$PROJECT_DIR$/out/production/classes/appSearch/Google.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/utilities/UtilityHelper.class" afterPath="$PROJECT_DIR$/out/production/classes/utilities/UtilityHelper.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/bullet_point.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/collapseall.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/failed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/passed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/skipped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng-reports.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng-reports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-output/testng.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/appSearch/Google.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/appSearch/Google.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/appSearch/Navigate.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/appSearch/Navigate.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/utilities/AppConstants.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/utilities/AppConstants.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/utilities/UtilityHelper.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/utilities/UtilityHelper.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/steps/search/Search.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/steps/search/Search.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/support/runners/Smoke.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/support/runners/Smoke.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/support/testngxml/regression.xml" afterPath="$PROJECT_DIR$/src/test/groovy/support/testngxml/regression.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -121,10 +114,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Smoke.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Smoke.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/Smoke.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="209">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#25#60#0" expanded="true" />
@@ -136,8 +129,8 @@
       <file leaf-file-name="Regression.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/Regression.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding>
                 <element signature="e#25#60#0" expanded="true" />
               </folding>
@@ -145,11 +138,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Search.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/groovy/features/search/Search.feature">
+      <file leaf-file-name="RunTestsJUnit.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/RunTestsJUnit.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="187">
+              <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regression.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngxml/regression.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -187,7 +190,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MercuryToursLogin.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MercuryToursLogin.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/steps/Login/MercuryToursLogin.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
@@ -605,7 +608,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/steps/Search.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/cucumber/support/env.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/cucumber/Search.feature" />
         <option value="$PROJECT_DIR$/src/test/groovy/Runner.groovy" />
@@ -656,6 +658,7 @@
         <option value="$PROJECT_DIR$/src/test/groovy/support/runners/Regression.groovy" />
         <option value="$PROJECT_DIR$/src/test/groovy/support/runners/Smoke.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/appSearch/MTHome.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/support/testngxml/regression.xml" />
       </list>
     </option>
   </component>
@@ -693,71 +696,7 @@
             <path>
               <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="appSearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-              <item name="chrome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
@@ -771,107 +710,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="groovy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="LogIn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-              <item name="HomePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="groovy" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-              <item name="testngxml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="groovy_gucumber_selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Groovy_Cucumber_Selenium" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -916,7 +754,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/regression.xml">
+  <component name="RunManager" selected="Gradle.Groovy_Cucumber_Selenium [clean]">
     <configuration name="C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/regression.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="groovy_gucumber_selenium_test" />
@@ -1321,8 +1159,8 @@
     <history-entry file="C__Dev_Groovy_Cucumber_Selenium_src_test_groovy_support_testngxml_regression_xml - 2017.09.30 at 06h 30m 58s.xml">
       <configuration name="C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/regression.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Dev_Groovy_Cucumber_Selenium_src_test_groovy_support_testngxml_smoke_xml - 2017.09.30 at 04h 32m 36s.xml">
-      <configuration name="C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/smoke.xml" configurationId="TestNG" />
+    <history-entry file="C__Dev_Groovy_Cucumber_Selenium_src_test_groovy_support_testngxml_regression_xml - 2017.09.30 at 06h 37m 07s.xml">
+      <configuration name="C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/regression.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__Dev_Groovy_Cucumber_Selenium_src_test_groovy_support_testngxml_smoke_xml - 2017.09.30 at 04h 33m 44s.xml">
       <configuration name="C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/smoke.xml" configurationId="TestNG" />
@@ -1339,8 +1177,8 @@
     <history-entry file="C__Dev_Groovy_Cucumber_Selenium_src_test_groovy_support_testngxml_smoke_xml - 2017.09.30 at 05h 27m 33s.xml">
       <configuration name="C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/smoke.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="testng - 2017.09.28 at 16h 45m 54s.xml">
-      <configuration name="testng" configurationId="TestNG" />
+    <history-entry file="C__Dev_Groovy_Cucumber_Selenium_src_test_groovy_support_testngxml_smoke_xml - 2017.09.30 at 06h 36m 41s.xml">
+      <configuration name="C:/Dev/Groovy_Cucumber_Selenium/src/test/groovy/support/testngxml/smoke.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1355,20 +1193,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35639685" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52741516" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52741516" sideWeight="0.49166667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CodeNarc" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23888889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13680555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36031333" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36031333" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1538,13 +1376,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/RunTestsJUnit.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-output/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1601,14 +1432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngxml/regression.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/steps/HomePage/GoogleHome.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1640,34 +1463,6 @@
         <state relative-caret-position="153">
           <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngxml/smoke.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/Regression.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#25#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/Smoke.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#25#60#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1719,6 +1514,50 @@
           <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
           <folding>
             <element signature="e#21#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngxml/regression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/testngxml/smoke.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/Regression.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#25#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/RunTestsJUnit.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/support/runners/Smoke.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#25#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
