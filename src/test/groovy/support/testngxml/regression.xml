@@ -3,7 +3,7 @@
 <suite name="Current Sprint" verbose="1" >
     <test name="Nopackage" >
         <classes>
-            <class name="support.runners.CurrentSprint" />
+            <class name="support.runners.Regression" />
         </classes>
     </test>
 </suite>

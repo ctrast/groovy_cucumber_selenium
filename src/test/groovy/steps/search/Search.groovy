@@ -1,4 +1,4 @@
-package steps.currentsprint
+package steps.search
 
 import appSearch.Google
 import appSearch.Navigate
@@ -24,7 +24,7 @@ When(~/^the user presses Enter button$/) { ->
     Action.edt_sendKeysEnter()
 }
 Then(~/^search results list the "([^"]*)"$/) { String arg1 ->
-    Boolean value = UtilityHelper.divcontainsText(arg1)
+    def value = UtilityHelper.divcontainsText(arg1)
 
    //TODO move assert to Utilities - pass in value to assert.
     assert value

@@ -3,6 +3,7 @@ package appSearch
 import context.ContextUtil
 import org.openqa.selenium.By
 import org.openqa.selenium.Keys
+import utilities.UtilityHelper
 import utilities.Wait
 
 //google home page
@@ -17,7 +18,7 @@ class Google {
 
     void googSearch_btn_click(){
         ContextUtil.get().getWebDriverInstance().findElement(By.name("btnK")).click()
-        rtn = Wait.webDriverWaitId(30, "resultStats")
+        Wait.webDriverWaitId(30, "resultStats")
 
     }
 
@@ -25,5 +26,9 @@ class Google {
         ContextUtil.get().getWebDriverInstance().findElement(By.id("_fZl")).click()
     }
 
+    Boolean googSearch_btn_exists(){
+        rtn = UtilityHelper.findElementByName("btnK")
+        return rtn
+    }
 
 }

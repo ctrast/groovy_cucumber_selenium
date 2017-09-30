@@ -9,6 +9,10 @@ class Navigate {
         ContextUtil.get().getWebDriverInstance().navigate().to(AppConstants.GOOGLEHOME)
     }
 
+    void MercuryHome(){
+        ContextUtil.get().getWebDriverInstance().navigate().to(AppConstants.MERCURYHOME)
+    }
+
     void All(){
         ContextUtil.get().getWebDriverInstance().findElement(By.linkText("AllPage")).click()
     }

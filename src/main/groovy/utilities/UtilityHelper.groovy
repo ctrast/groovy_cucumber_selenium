@@ -145,6 +145,16 @@ class UtilityHelper {
         return h1text
     }
 
+    static Boolean findElementById(String string) {
+        def element = ContextUtil.get().getWebDriverInstance().findElement(By.id(string))
+    }
+    static Boolean findElementByName(String string) {
+        def element = ContextUtil.get().getWebDriverInstance().findElement(By.name(string))
+    }
+    static Boolean findImageBySrc(String string) {
+        def element = ContextUtil.get().getWebDriverInstance().findElement(By.xpath("//img[contains(@src,"+string+")]"))
+    }
+
     static Boolean divcontainsText(String string) {
         System.out
                 .println("the size is "
